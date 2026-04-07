@@ -1,6 +1,6 @@
 # Project 1: COVID-19 ETL Pipeline
 
-This project is my first end-to-end ETL (Extract, Transform, Load) pipeline, built as I step into the world of data engineering. My goal wasn't just to write working code; it was to understand the journey of data from its source, through cleansing, to being written to a cloud database, and to learn the best practices along the way.
+This project is my first end-to-end ETL (Extract, Transform, Load) pipeline, built as I step into the world of data engineering. My goal wasn't just to write working code; it was to understand the journey of data from its source, through cleansing, to being written to a cloud database and to learn the best practices along the way.
 
 ## Technologies & Tools Used
 
