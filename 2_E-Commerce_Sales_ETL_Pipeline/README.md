@@ -1,4 +1,4 @@
-# E-Commerce Data Pipeline
+# Project 2: E-Commerce Data Pipeline
 
 This project is more than just a coding exercise; it is a learning laboratory where I have documented, step-by-step, how I transformed complex and "dirty" e-commerce data into a structured system according to modern data engineering standards (**Medallion Architecture & Star Schema**).
 
